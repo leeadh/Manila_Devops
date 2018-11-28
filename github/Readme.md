@@ -1,4 +1,6 @@
 
+https://user-images.githubusercontent.com/15122358/49165784-f78c8880-f36c-11e8-91cc-ec60e704c49c.png
+
 This is a sample code to show automation of 
 
 1) creating of object storage on OCI
