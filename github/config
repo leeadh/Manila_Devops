@@ -1,0 +1,7 @@
+[DEFAULT]
+user=<<USER OCID>>
+fingerprint=55:ab:2b:4d:65:3e:71:a9:37:f4:ff:28:e4:e7:d4:86
+key_file=oci_api_key.pem
+tenancy=<<TENANY OCID>>
+region=us-ashburn-1
+compartment=<<COMPARTMENT OCID>>
